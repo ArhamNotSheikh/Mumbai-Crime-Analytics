@@ -1,56 +1,84 @@
-# Mumbai Crime Analytics
+# 🚔 Mumbai Crime Analytics
 
-## Overview
-Welcome to Mumbai Crime Analytics – a data analysis and visualization project focused on understanding crime trends in Mumbai.
+## 📌 Overview
+**Mumbai Crime Analytics** is a data analytics project aimed at exploring and interpreting crime trends across Mumbai.
 
-This project transforms raw crime data into an interactive and easy-to-understand dashboard using Power BI.
-
----
-
-## Objective
-The goal of this project is to provide a reliable and user-friendly way to explore detailed crime statistics in Mumbai, helping users identify patterns, trends, and insights efficiently.
+The project converts raw and unstructured crime data into an **interactive Power BI dashboard**, enabling clear visual insights and informed understanding.
 
 ---
 
-## Data Source
-- National Crime Records Bureau (NCRB)
-- Official Mumbai Police website
+## 🎯 Objective
+The objective of this project is to develop a **reliable, accessible, and insight-driven platform** for analysing crime statistics in Mumbai.
 
-The data was available in PDF format and was converted into structured datasets for analysis.
-
----
-
-## Data Collection & Processing
-
-### Data Extraction
-- Extracted data from PDF files using Tabula
-- Converted data into CSV format
-
-### Data Cleaning
-- Removed empty rows and irrelevant fields  
-- Handled inconsistencies and duplicate entries  
-- Standardized formats for analysis  
-
-### Data Transformation
-- Structured data into meaningful tables  
-- Created relationships between datasets  
-- Prepared data for visualization in Power BI  
+It is designed to:
+- Identify patterns and trends over time  
+- Enable intuitive exploration through visualisation  
+- Support data-driven observations and conclusions  
 
 ---
 
-## Tools Used
-- Power BI (Data Visualization)
-- Tabula (PDF to CSV conversion)
-- Excel / CSV (Data cleaning)
+## 📂 Data Sources
+- 📊 National Crime Records Bureau (NCRB)  
+- 🚓 Official Mumbai Police website  
+
+📌 *Note: Source data was primarily available in PDF format and required structured extraction.*
 
 ---
 
-## Dashboard Features
-- Monthly crime trends analysis  
-- Category-wise crime distribution  
-- Comparative analysis across time periods  
-- Interactive filters for deeper insights  
+## ⚙️ Data Pipeline
+
+### 📥 Data Extraction
+- Extracted tabular data from PDFs using **Tabula**  
+- Converted extracted data into structured CSV files  
+
+### 🧹 Data Cleaning
+- Removed null values and redundant entries  
+- Resolved inconsistencies and formatting issues  
+- Standardised datasets for uniform analysis  
+
+### 🔄 Data Transformation
+- Organised data into structured tables  
+- Established relationships between datasets  
+- Prepared data model for Power BI visualisation  
 
 ---
 
-## Project Structure
+## 🛠️ Tools & Technologies
+- 📊 **Power BI** — Data visualisation and dashboarding  
+- 📄 **Tabula** — PDF to CSV extraction  
+- 📁 **Excel / CSV** — Data cleaning and preprocessing  
+
+---
+
+## 📊 Dashboard Highlights
+- 📅 Temporal analysis of crime trends (monthly insights)  
+- 📌 Category-wise crime distribution  
+- 🔍 Interactive filters for detailed exploration  
+- 📈 Comparative analysis across time periods  
+
+---
+
+## 🗂️ Project Structure
+/data-files → Raw and processed datasets
+/dashboard → Power BI file (.pbix)
+README.md → Project documentation
+
+
+---
+
+## 💡 Key Insights
+- 📉 Certain crime categories exhibit **seasonal variation**  
+- 📊 Noticeable fluctuations across different months  
+- 🚨 Data indicates areas requiring targeted attention  
+
+---
+
+## 🚀 Future Scope
+- 🔄 Integration of more recent / real-time datasets  
+- 🌐 Deployment of dashboard for public access  
+- 🤖 Incorporation of predictive analytics techniques  
+
+---
+
+## 👨‍💻 Author
+**Arham Shaikh**
