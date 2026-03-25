@@ -1,0 +1,57 @@
+Date,Crime,Registered,Detected
+01-10-2025,Murder,9,9
+01-10-2025,Attempt to Commit Murder,37,37
+01-10-2025,Dacoity,3,3
+01-10-2025,Preparation for Dacoity,0,0
+01-10-2025,Robbery,47,46
+01-10-2025,Robbery Chain Snatching,6,1
+01-10-2025,Attempt to Commit Robbery,2,2
+01-10-2025,Extortion,23,18
+01-10-2025,HBT Day,20,6
+01-10-2025,HBT Night,65,19
+01-10-2025,Theft,795,184
+01-10-2025,Motor Vehicle Theft,210,73
+01-10-2025,Snatching,16,11
+01-10-2025,Hurt,441,405
+01-10-2025,Riots,47,44
+01-10-2025,Rape,111,88
+01-10-2025,Molestation,188,162
+01-10-2025,Other I.P.C.,3356,2649
+01-10-2025,Rape u/s POCSO (ii) Minor,48,46
+01-10-2025,Rape u/s (ii) Major,63,42
+01-10-2025,Kidnapping of Women (i) Minor,136,102
+01-10-2025,Kidnapping of Women (ii) Major,1,1
+01-10-2025,Outraging Modesty of Women,189,165
+01-10-2025,Insult to Modesty of Women,91,72
+01-10-2025,Dowry Death,2,1
+01-10-2025,Dowry related Mental/Phy. Harrasment,30,19
+01-10-2025,Murder due to other reasons,1,1
+01-10-2025,Mental/Phy. Harrast. due to other reasons,36,26
+01-10-2025,Molestation with POCSO,48,43
+01-10-2025,Eve-Teasing with POCSO,7,7
+01-10-2025,Other IPC with POCSO,2,2
+01-10-2025,PITA With POCSO (Excluding Rape),1,1
+01-10-2025,Tampering of Source Code,0,0
+01-10-2025,Phishing / MIM Attack / Spoofing Mail,42,3
+01-10-2025,Pornography,15,9
+01-10-2025,Obscene Email / SMS / MMS / Post,201,147
+01-10-2025,Fake Social Media Profile / Morphing Email / SMS,141,84
+01-10-2025,Credit Card / Online Fraud,457,99
+01-10-2025,Hacking,69,8
+01-10-2025,Custom/Gift Fraud,40,4
+01-10-2025,Purchase Fraud,77,20
+01-10-2025,Job Fraud,259,54
+01-10-2025,Insurance / Provident Fund Fraud,20,6
+01-10-2025,Admission Fraud,3,0
+01-10-2025,Fake Website,79,19
+01-10-2025,Share Market Investment Fraud,721,192
+01-10-2025,Investment Fraud,208,57
+01-10-2025,Matrimonial Fraud,18,6
+01-10-2025,Cryptocurrency Fraud,42,13
+01-10-2025,Loan Fraud,40,14
+01-10-2025,Digital Arrest,142,50
+01-10-2025,Other Cheating,881,229
+01-10-2025,Data Theft,27,10
+01-10-2025,Sextortion,30,18
+01-10-2025,Communal Post,13,8
+01-10-2025,Other Cyber Crime,208,108

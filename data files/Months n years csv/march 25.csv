@@ -1,0 +1,58 @@
+Date,Crime,Registered,Detected
+01-03-2025,Murder,15,14
+01-03-2025,Attempt to Commit Murder,24,24
+01-03-2025,Dacoity,0,0
+01-03-2025,Preparation for Dacoity,0,0
+01-03-2025,Robbery,28,23
+01-03-2025,Robbery Chain Snatching,2,0
+01-03-2025,Attempt to Commit Robbery,0,0
+01-03-2025,Extortion,25,18
+01-03-2025,HBT Day,11,4
+01-03-2025,HBT Night,66,25
+01-03-2025,Theft,465,98
+01-03-2025,Motor Vehicle Theft,177,59
+01-03-2025,Snatching,19,8
+01-03-2025,Hurt,464,381
+01-03-2025,Riots,38,31
+01-03-2025,Rape,92,72
+01-03-2025,Molestation,246,190
+01-03-2025,Other I.P.C.,2350,1515
+01-03-2025,Rape u/s POCSO (ii) Minor,46,37
+01-03-2025,Rape u/s (ii) Major,46,33
+01-03-2025,Kidnapping of Women (i) Minor,131,91
+01-03-2025,Kidnapping of Women (ii) Major,0,0
+01-03-2025,Outraging Modesty of Women,248,194
+01-03-2025,Insult to Modesty of Women,88,57
+01-03-2025,Dowry Death,1,1
+01-03-2025,Dowry related suicides,1,1
+01-03-2025,Dowry related Mental/Phy. Harrasment,38,18
+01-03-2025,Murder due to other reasons,1,1
+01-03-2025,Suicides due to other reasons,1,0
+01-03-2025,Mental/Phy. Harrast. due to other reasons,42,25
+01-03-2025,Molestation with POCSO,53,46
+01-03-2025,Eve-Teasing with POCSO,3,1
+01-03-2025,PITA With POCSO (Excluding Rape),1,1
+01-03-2025,Tampering of Source Code,0,0
+01-03-2025,Phishing / MIM Attack / Spoofing Mail,13,0
+01-03-2025,Pornography,3,1
+01-03-2025,Obscene Email / SMS / MMS / Post,61,36
+01-03-2025,Fake Social Media Profile / Morphing Email / SMS,51,13
+01-03-2025,Credit Card / Online Fraud,117,14
+01-03-2025,Hacking,19,1
+01-03-2025,Custom/Gift Fraud,14,1
+01-03-2025,Purchase Fraud,25,6
+01-03-2025,Job Fraud,101,2
+01-03-2025,Insurance / Provident Fund Fraud,7,0
+01-03-2025,Admission Fraud,2,0
+01-03-2025,Fake Website,19,4
+01-03-2025,Share Market Investment Fraud,225,13
+01-03-2025,Investment Fraud,50,7
+01-03-2025,Matrimonial Fraud,8,1
+01-03-2025,Cryptocurrency Fraud,10,1
+01-03-2025,Loan Fraud,13,1
+01-03-2025,Digital Arrest,70,16
+01-03-2025,Other Cheating,226,38
+01-03-2025,Data Theft,12,5
+01-03-2025,Sextortion,21,9
+01-03-2025,Communal Post,3,2
+01-03-2025,Other Cyber Crime,36,17

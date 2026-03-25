@@ -1,0 +1,60 @@
+Date,Crime,Registered,Detected
+01-12-2025,Murder,7,6
+01-12-2025,Attempt to Commit Murder,23,21
+01-12-2025,Dacoity,5,5
+01-12-2025,Prep.for Dacoity,0,0
+01-12-2025,Robbery,38,37
+01-12-2025,Robbery Chain Snatcing,4,3
+01-12-2025,Att.to.C.Robbery,1,1
+01-12-2025,Extortion,40,29
+01-12-2025,H.B.T.Day,20,4
+01-12-2025,H.B.T.Night.,86,35
+01-12-2025,Thefts.,589,132
+01-12-2025,M.V.Thefts.,184,50
+01-12-2025,Snatching,15,7
+01-12-2025,Hurt,334,303
+01-12-2025,Riots.,47,41
+01-12-2025,Rape,104,85
+01-12-2025,Molestation,235,193
+01-12-2025,Other I.P.C.,4356,3387
+01-12-2025,Rape u/s (ii) Minor,42,40
+01-12-2025,Rape u/s (ii) Major,62,45
+01-12-2025,Kidnapping  of Women  ,130,117
+01-12-2025,Outraging Modesty of Women,233,191
+01-12-2025,Intended insult  to Modesty of  Women,87,70
+01-12-2025,Dowry Death,1,1
+01-12-2025,Dowry related suicides,,
+01-12-2025,Dowry related Mental/Phy. Harrasment ,54,44
+01-12-2025,Murder due to other reasons,,
+01-12-2025,Suicides due to other reasons ,3,1
+01-12-2025,Mental/Phy. Harrast. due to other reasons ,37,29
+01-12-2025,Acid Attack,,
+01-12-2025,No of cases registered Rape with POCSO,42,40
+01-12-2025,No. of cases registered Molestation with POCSO,53,48
+01-12-2025,No. of cases registered Eve-Teasing with POCSO,6,5
+01-12-2025,Other IPC with POCSO,2,2
+01-12-2025,PITA With POCSO,1,1
+01-12-2025,Tampering of Source Code,0,0
+01-12-2025,Phishing /MIM Attack/ Spoofing Mail,57,6
+01-12-2025,Pornography,16,12
+01-12-2025,Obscene Email / SMS / MMS/Post,252,196
+01-12-2025,"Fake Social Media Profile/ Morphing Email/SMS",169,95
+01-12-2025,Credit Card / Online  Fraud,655,150
+01-12-2025,Hacking,80,9
+01-12-2025,Custom/Gift Fraud,46,5
+01-12-2025,Purchase fraud,98,26
+01-12-2025,Job Fraud,303,71
+01-12-2025,Insurance/ Provident Fund Fraud,26,7
+01-12-2025,Admission fraud,3,1
+01-12-2025,Fake Web site,99,25
+01-12-2025,Share Market Investment,856,248
+01-12-2025,Investment Fraud,266,67
+01-12-2025,Matrimonial Fraud,24,9
+01-12-2025,Crypto currency Fraud,53,14
+01-12-2025,Loan Fraud,55,22
+01-12-2025,Digital Arrest,191,75
+01-12-2025,Other Cheating,1242,319
+01-12-2025,Data Theft,35,14
+01-12-2025,Sextortion,40,24
+01-12-2025,Communal Post,16,8
+,Other cyber crime,243,139

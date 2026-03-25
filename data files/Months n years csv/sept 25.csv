@@ -1,0 +1,59 @@
+Date,Crime,Registered,Detected
+01-09-2025,Murder,11,11
+01-09-2025,Attempt to Commit Murder,31,29
+01-09-2025,Dacoity,1,1
+01-09-2025,Preparation for Dacoity,0,0
+01-09-2025,Robbery,27,23
+01-09-2025,Robbery Chain Snatching,7,5
+01-09-2025,Attempt to Commit Robbery,0,0
+01-09-2025,Extortion,29,23
+01-09-2025,HBT Day,11,5
+01-09-2025,HBT Night,81,29
+01-09-2025,Theft,708,164
+01-09-2025,Motor Vehicle Theft,195,60
+01-09-2025,Snatching,8,6
+01-09-2025,Hurt,302,267
+01-09-2025,Riots,45,32
+01-09-2025,Rape,91,73
+01-09-2025,Molestation,181,154
+01-09-2025,Other I.P.C.,3830,3108
+01-09-2025,Rape u/s POCSO (ii) Minor,45,40
+01-09-2025,Rape u/s (ii) Major,46,33
+01-09-2025,Kidnapping of Women (i) Minor,127,94
+01-09-2025,Kidnapping of Women (ii) Major,1,0
+01-09-2025,Outraging Modesty of Women,181,154
+01-09-2025,Insult to Modesty of Women,74,55
+01-09-2025,Dowry Death,1,1
+01-09-2025,Dowry related suicides,1,0
+01-09-2025,Dowry related Mental/Phy. Harrasment,50,35
+01-09-2025,Murder due to other reasons,2,2
+01-09-2025,Suicides due to other reasons,1,1
+01-09-2025,Mental/Phy. Harrast. due to other reasons,42,23
+01-09-2025,Molestation with POCSO,44,39
+01-09-2025,Eve-Teasing with POCSO,6,5
+01-09-2025,Other IPC with POCSO,1,1
+01-09-2025,PITA With POCSO (Excluding Rape),1,1
+01-09-2025,Tampering of Source Code,0,0
+01-09-2025,Phishing / MIM Attack / Spoofing Mail,39,3
+01-09-2025,Pornography,14,9
+01-09-2025,Obscene Email / SMS / MMS / Post,180,127
+01-09-2025,Fake Social Media Profile / Morphing Email / SMS,141,77
+01-09-2025,Credit Card / Online Fraud,398,79
+01-09-2025,Hacking,53,4
+01-09-2025,Custom/Gift Fraud,38,4
+01-09-2025,Purchase Fraud,68,13
+01-09-2025,Job Fraud,245,48
+01-09-2025,Insurance / Provident Fund Fraud,19,5
+01-09-2025,Admission Fraud,3,0
+01-09-2025,Fake Website,79,17
+01-09-2025,Share Market Investment Fraud,665,175
+01-09-2025,Investment Fraud,195,55
+01-09-2025,Matrimonial Fraud,15,5
+01-09-2025,Cryptocurrency Fraud,39,9
+01-09-2025,Loan Fraud,37,11
+01-09-2025,Digital Arrest,121,45
+01-09-2025,Other Cheating,725,193
+01-09-2025,Data Theft,23,11
+01-09-2025,Sextortion,26,17
+01-09-2025,Communal Post,12,8
+01-09-2025,Other Cyber Crime,237,104

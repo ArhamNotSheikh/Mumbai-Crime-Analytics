@@ -1,0 +1,55 @@
+Date,Crime,Registered,Detected
+01-08-2025,Murder,6,6
+01-08-2025,Attempt to Commit Murder,16,16
+01-08-2025,Dacoity,1,0
+01-08-2025,Preparation for Dacoity,0,0
+01-08-2025,Robbery,23,22
+01-08-2025,Robbery Chain Snatching,6,4
+01-08-2025,Attempt to Commit Robbery,1,1
+01-08-2025,Extortion,26,23
+01-08-2025,HBT Day,13,4
+01-08-2025,HBT Night,79,34
+01-08-2025,Theft,707,172
+01-08-2025,Motor Vehicle Theft,214,71
+01-08-2025,Snatching,8,3
+01-08-2025,Hurt,295,253
+01-08-2025,Riots,28,22
+01-08-2025,Rape,91,65
+01-08-2025,Molestation,177,143
+01-08-2025,Other I.P.C.,3913,3239
+01-08-2025,Rape u/s POCSO (ii) Minor,46,38
+01-08-2025,Rape u/s (ii) Major,44,26
+01-08-2025,Kidnapping of Women (i) Minor,132,95
+01-08-2025,Kidnapping of Women (ii) Major,2,1
+01-08-2025,Outraging Modesty of Women,177,143
+01-08-2025,Insult to Modesty of Women,70,52
+01-08-2025,Dowry related suicides,2,0
+01-08-2025,Dowry related Mental/Phy. Harrasment,37,21
+01-08-2025,Suicides due to other reasons,1,1
+01-08-2025,Mental/Phy. Harrast. due to other reasons,22,14
+01-08-2025,Molestation with POCSO,43,39
+01-08-2025,Eve-Teasing with POCSO,4,3
+01-08-2025,Tampering of Source Code,0,0
+01-08-2025,Phishing / MIM Attack / Spoofing Mail,36,3
+01-08-2025,Pornography,12,5
+01-08-2025,Obscene Email / SMS / MMS / Post,160,110
+01-08-2025,Fake Social Media Profile / Morphing Email / SMS,120,67
+01-08-2025,Credit Card / Online Fraud,344,71
+01-08-2025,Hacking,49,3
+01-08-2025,Custom/Gift Fraud,30,4
+01-08-2025,Purchase Fraud,62,15
+01-08-2025,Job Fraud,227,42
+01-08-2025,Insurance / Provident Fund Fraud,18,4
+01-08-2025,Admission Fraud,3,0
+01-08-2025,Fake Website,62,18
+01-08-2025,Share Market Investment Fraud,583,141
+01-08-2025,Investment Fraud,163,47
+01-08-2025,Matrimonial Fraud,14,5
+01-08-2025,Cryptocurrency Fraud,35,5
+01-08-2025,Loan Fraud,35,9
+01-08-2025,Digital Arrest,114,41
+01-08-2025,Other Cheating,636,162
+01-08-2025,Data Theft,23,10
+01-08-2025,Sextortion,25,16
+01-08-2025,Communal Post,12,6
+01-08-2025,Other Cyber Crime,185,93

@@ -1,0 +1,57 @@
+Date,Crime,Registered,Detected
+01-06-2025,Murder,6,5
+01-06-2025,Attempt to Commit Murder,35,34
+01-06-2025,Dacoity,2,2
+01-06-2025,Preparation for Dacoity,1,1
+01-06-2025,Robbery,35,33
+01-06-2025,Robbery Chain Snatching,7,7
+01-06-2025,Attempt to Commit Robbery,2,2
+01-06-2025,Extortion,24,21
+01-06-2025,HBT Day,12,3
+01-06-2025,HBT Night,88,35
+01-06-2025,Theft,872,163
+01-06-2025,Motor Vehicle Theft,221,71
+01-06-2025,Snatching,23,9
+01-06-2025,Hurt,330,286
+01-06-2025,Riots,26,24
+01-06-2025,Rape,99,76
+01-06-2025,Molestation,202,176
+01-06-2025,Other I.P.C.,4587,3979
+01-06-2025,Rape u/s POCSO (ii) Minor,48,41
+01-06-2025,Rape u/s (ii) Major,52,36
+01-06-2025,Kidnapping of Women (i) Minor,122,101
+01-06-2025,Kidnapping of Women (ii) Major,2,1
+01-06-2025,Outraging Modesty of Women,202,176
+01-06-2025,Insult to Modesty of Women,67,49
+01-06-2025,Dowry Death,1,1
+01-06-2025,Dowry related suicides,1,1
+01-06-2025,Dowry related Mental/Phy. Harrasment,49,37
+01-06-2025,Suicides due to other reasons,1,1
+01-06-2025,Mental/Phy. Harrast. due to other reasons,36,28
+01-06-2025,Molestation with POCSO,50,45
+01-06-2025,Eve-Teasing with POCSO,2,2
+01-06-2025,Other IPC with POCSO,1,1
+01-06-2025,Tampering of Source Code,0,0
+01-06-2025,Phishing / MIM Attack / Spoofing Mail,26,3
+01-06-2025,Pornography,9,6
+01-06-2025,Obscene Email / SMS / MMS / Post,121,75
+01-06-2025,Fake Social Media Profile / Morphing Email / SMS,77,39
+01-06-2025,Credit Card / Online Fraud,207,43
+01-06-2025,Hacking,37,1
+01-06-2025,Custom/Gift Fraud,22,3
+01-06-2025,Purchase Fraud,50,9
+01-06-2025,Job Fraud,184,23
+01-06-2025,Insurance / Provident Fund Fraud,17,1
+01-06-2025,Admission Fraud,0,0
+01-06-2025,Fake Website,49,14
+01-06-2025,Share Market Investment Fraud,469,75
+01-06-2025,Investment Fraud,116,30
+01-06-2025,Matrimonial Fraud,11,5
+01-06-2025,Cryptocurrency Fraud,33,4
+01-06-2025,Loan Fraud,22,8
+01-06-2025,Digital Arrest,103,33
+01-06-2025,Other Cheating,460,107
+01-06-2025,Data Theft,15,7
+01-06-2025,Sextortion,20,12
+01-06-2025,Communal Post,9,5
+01-06-2025,Other Cyber Crime,131,63

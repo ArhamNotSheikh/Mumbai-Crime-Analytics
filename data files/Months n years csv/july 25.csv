@@ -1,0 +1,55 @@
+Date,Crime,Registered,Detected
+01-07-2025,Murder,6,6
+01-07-2025,Attempt to Commit Murder,23,23
+01-07-2025,Dacoity,2,2
+01-07-2025,Preparation for Dacoity,0,0
+01-07-2025,Robbery,21,21
+01-07-2025,Robbery Chain Snatching,7,5
+01-07-2025,Attempt to Commit Robbery,0,0
+01-07-2025,Extortion,28,25
+01-07-2025,HBT Day,16,6
+01-07-2025,HBT Night,85,31
+01-07-2025,Theft,736,163
+01-07-2025,Motor Vehicle Theft,214,75
+01-07-2025,Snatching,14,8
+01-07-2025,Hurt,291,266
+01-07-2025,Riots,44,40
+01-07-2025,Rape,104,84
+01-07-2025,Molestation,199,183
+01-07-2025,Other I.P.C.,4614,3844
+01-07-2025,Rape u/s POCSO (ii) Minor,52,50
+01-07-2025,Rape u/s (ii) Major,52,34
+01-07-2025,Kidnapping of Women (i) Minor,107,82
+01-07-2025,Kidnapping of Women (ii) Major,1,1
+01-07-2025,Outraging Modesty of Women,199,183
+01-07-2025,Insult to Modesty of Women,75,61
+01-07-2025,Dowry Death,1,1
+01-07-2025,Dowry related Mental/Phy. Harrasment,58,40
+01-07-2025,Suicides due to other reasons,3,4
+01-07-2025,Mental/Phy. Harrast. due to other reasons,49,33
+01-07-2025,Molestation with POCSO,42,40
+01-07-2025,Eve-Teasing with POCSO,2,2
+01-07-2025,Tampering of Source Code,0,0
+01-07-2025,Phishing / MIM Attack / Spoofing Mail,28,3
+01-07-2025,Pornography,11,7
+01-07-2025,Obscene Email / SMS / MMS / Post,136,93
+01-07-2025,Fake Social Media Profile / Morphing Email / SMS,112,64
+01-07-2025,Credit Card / Online Fraud,303,62
+01-07-2025,Hacking,48,2
+01-07-2025,Custom/Gift Fraud,26,4
+01-07-2025,Purchase Fraud,57,12
+01-07-2025,Job Fraud,211,33
+01-07-2025,Insurance / Provident Fund Fraud,17,4
+01-07-2025,Admission Fraud,2,0
+01-07-2025,Fake Website,57,17
+01-07-2025,Share Market Investment Fraud,518,108
+01-07-2025,Investment Fraud,143,35
+01-07-2025,Matrimonial Fraud,12,5
+01-07-2025,Cryptocurrency Fraud,32,5
+01-07-2025,Loan Fraud,30,9
+01-07-2025,Digital Arrest,106,38
+01-07-2025,Other Cheating,573,141
+01-07-2025,Data Theft,20,9
+01-07-2025,Sextortion,20,12
+01-07-2025,Communal Post,12,6
+01-07-2025,Other Cyber Crime,148,83

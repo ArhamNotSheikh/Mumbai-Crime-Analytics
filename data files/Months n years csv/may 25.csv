@@ -1,0 +1,56 @@
+Date,Crime,Registered,Detected
+01-05-2025,Murder,16,15
+01-05-2025,Attempt to Commit Murder,22,21
+01-05-2025,Dacoity,1,1
+01-05-2025,Preparation for Dacoity,0,0
+01-05-2025,Robbery,11,9
+01-05-2025,Robbery Chain Snatching,4,2
+01-05-2025,Attempt to Commit Robbery,0,0
+01-05-2025,Extortion,21,14
+01-05-2025,HBT Day,17,8
+01-05-2025,HBT Night,70,22
+01-05-2025,Theft,1141,142
+01-05-2025,Motor Vehicle Theft,167,39
+01-05-2025,Snatching,22,8
+01-05-2025,Hurt,368,311
+01-05-2025,Riots,37,33
+01-05-2025,Rape,99,63
+01-05-2025,Molestation,211,171
+01-05-2025,Other I.P.C.,3813,3106
+01-05-2025,Rape u/s POCSO (ii) Minor,43,34
+01-05-2025,Rape u/s (ii) Major,57,29
+01-05-2025,Kidnapping of Women (i) Minor,121,90
+01-05-2025,Kidnapping of Women (ii) Major,0,0
+01-05-2025,Outraging Modesty of Women,212,170
+01-05-2025,Insult to Modesty of Women,60,50
+01-05-2025,Dowry related suicides,1,0
+01-05-2025,Dowry related Mental/Phy. Harrasment,35,19
+01-05-2025,Murder due to other reasons,3,2
+01-05-2025,Suicides due to other reasons,1,0
+01-05-2025,Mental/Phy. Harrast. due to other reasons,49,26
+01-05-2025,Molestation with POCSO,57,50
+01-05-2025,Eve-Teasing with POCSO,2,2
+01-05-2025,Tampering of Source Code,0,0
+01-05-2025,Phishing / MIM Attack / Spoofing Mail,23,1
+01-05-2025,Pornography,6,4
+01-05-2025,Obscene Email / SMS / MMS / Post,100,52
+01-05-2025,Fake Social Media Profile / Morphing Email / SMS,76,26
+01-05-2025,Credit Card / Online Fraud,169,30
+01-05-2025,Hacking,32,1
+01-05-2025,Custom/Gift Fraud,19,2
+01-05-2025,Purchase Fraud,45,7
+01-05-2025,Job Fraud,154,14
+01-05-2025,Insurance / Provident Fund Fraud,13,1
+01-05-2025,Admission Fraud,1,0
+01-05-2025,Fake Website,44,11
+01-05-2025,Share Market Investment Fraud,393,49
+01-05-2025,Investment Fraud,100,19
+01-05-2025,Matrimonial Fraud,11,4
+01-05-2025,Cryptocurrency Fraud,26,2
+01-05-2025,Loan Fraud,18,5
+01-05-2025,Digital Arrest,92,29
+01-05-2025,Other Cheating,379,73
+01-05-2025,Data Theft,17,9
+01-05-2025,Sextortion,22,14
+01-05-2025,Communal Post,6,4
+01-05-2025,Other Cyber Crime,95,36

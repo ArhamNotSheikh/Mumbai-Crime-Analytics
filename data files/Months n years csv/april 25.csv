@@ -1,0 +1,56 @@
+Date,Crime,Registered,Detected
+01-04-2025,Murder,12,12
+01-04-2025,Attempt to Commit Murder,36,33
+01-04-2025,Dacoity,1,1
+01-04-2025,Preparation for Dacoity,0,0
+01-04-2025,Robbery,14,13
+01-04-2025,Robbery Chain Snatching,11,8
+01-04-2025,Attempt to Commit Robbery,0,0
+01-04-2025,Extortion,29,22
+01-04-2025,HBT Day,16,7
+01-04-2025,HBT Night,54,24
+01-04-2025,Theft,498,114
+01-04-2025,Motor Vehicle Theft,162,43
+01-04-2025,Snatching,13,8
+01-04-2025,Hurt,367,291
+01-04-2025,Riots,38,33
+01-04-2025,Rape,106,76
+01-04-2025,Molestation,214,179
+01-04-2025,Other I.P.C.,2448,1595
+01-04-2025,Rape u/s POCSO (ii) Minor,48,37
+01-04-2025,Rape u/s (ii) Major,57,38
+01-04-2025,Kidnapping of Women (i) Minor,153,115
+01-04-2025,Kidnapping of Women (ii) Major,0,0
+01-04-2025,Outraging Modesty of Women,214,180
+01-04-2025,Insult to Modesty of Women,80,47
+01-04-2025,Dowry related Mental/Phy. Harrasment,42,28
+01-04-2025,Murder due to other reasons,1,1
+01-04-2025,Suicides due to other reasons,2,1
+01-04-2025,Mental/Phy. Harrast. due to other reasons,32,14
+01-04-2025,Molestation with POCSO,55,50
+01-04-2025,Eve-Teasing with POCSO,8,6
+01-04-2025,Other IPC with POCSO,1,1
+01-04-2025,Tampering of Source Code,0,0
+01-04-2025,Phishing / MIM Attack / Spoofing Mail,18,1
+01-04-2025,Pornography,6,4
+01-04-2025,Obscene Email / SMS / MMS / Post,79,43
+01-04-2025,Fake Social Media Profile / Morphing Email / SMS,68,24
+01-04-2025,Credit Card / Online Fraud,140,20
+01-04-2025,Hacking,28,1
+01-04-2025,Custom/Gift Fraud,16,3
+01-04-2025,Purchase Fraud,33,6
+01-04-2025,Job Fraud,133,8
+01-04-2025,Insurance / Provident Fund Fraud,11,1
+01-04-2025,Admission Fraud,1,0
+01-04-2025,Fake Website,33,9
+01-04-2025,Share Market Investment Fraud,308,23
+01-04-2025,Investment Fraud,81,14
+01-04-2025,Matrimonial Fraud,10,2
+01-04-2025,Cryptocurrency Fraud,16,1
+01-04-2025,Loan Fraud,17,4
+01-04-2025,Digital Arrest,84,23
+01-04-2025,Other Cheating,322,58
+01-04-2025,Data Theft,14,8
+01-04-2025,Sextortion,20,12
+01-04-2025,Communal Post,5,3
+01-04-2025,Other Cyber Crime,66,28

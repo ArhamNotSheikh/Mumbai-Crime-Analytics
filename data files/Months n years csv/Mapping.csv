@@ -1,0 +1,47 @@
+Column1,Column2
+Crime,Category
+Murder,Violent
+Attempt to Commit Murder,Violent
+Dacoity,Property
+Preparation for Dacoity,Property
+Robbery,Property
+Robbery Chain Snatching,Property
+Attempt to Commit Robbery,Property
+Extortion,Property
+HBT Day,Property
+HBT Night,Property
+Theft,Property
+Motor Vehicle Theft,Property
+Snatching,Property
+Hurt,Violent
+Riots,Violent
+Rape,Sexual
+Molestation,Sexual
+Kidnapping of Women,Violent
+Outraging Modesty of Women,Sexual
+Insult to Modesty of Women,Sexual
+Tampering of Source Code,Cyber
+Phishing / MIM Attack / Spoofing Mail,Cyber
+Pornography,Cyber
+Obscene Email / SMS / MMS / Post,Cyber
+Fake Social Media Profile / Morphing Email / SMS,Cyber
+Credit Card / Online Fraud,Cyber
+Hacking,Cyber
+Custom/Gift Fraud,Cyber
+Purchase Fraud,Cyber
+Job Fraud,Cyber
+Insurance / Provident Fund Fraud,Cyber
+Admission Fraud,Cyber
+Fake Website,Cyber
+Share Market Investment Fraud,Cyber
+Investment Fraud,Cyber
+Matrimonial Fraud,Cyber
+Cryptocurrency Fraud,Cyber
+Loan Fraud,Cyber
+Pretended as Government Official,Cyber
+Other Cheating,Cyber
+Data Theft,Cyber
+Sextortion,Cyber
+Communal Post,Cyber
+Other Cyber Crime,Cyber
+,
