@@ -6,6 +6,8 @@
 The project converts raw and unstructured crime data into an **interactive Power BI dashboard**, enabling clear visual insights and informed understanding.
 
 ---
+<img width="1266" height="718" alt="image" src="https://github.com/user-attachments/assets/16f12d0c-927f-404e-be4b-1c8ea67e6e00" />
+
 
 ## 🎯 Objective
 The objective of this project is to develop a **reliable, accessible, and insight-driven platform** for analysing crime statistics in Mumbai.
